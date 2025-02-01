@@ -1,4 +1,4 @@
-# website-popup
+# watchdawg
 to stop f**king around with time, also i'm lazy to add in extension store.
 # Custom Popup Chrome Extension
 
